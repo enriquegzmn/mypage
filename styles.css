@@ -1,3 +1,17 @@
 html {
   background: beige;
 }
+
+h1 {
+  color: gray;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.enjoy {
+  color: red;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.verse {
+  color: darkblue;
+}
