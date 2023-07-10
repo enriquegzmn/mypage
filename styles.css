@@ -64,12 +64,15 @@
   }
 
   ul {
-    list-style: square;
+    list-style: none;
+    font-size: xx-large;
+    font-family: monospace;
+    text-align: center;
   }
 
   img {
-    width: 200px;
-    height: 200px;
+    width: 350px;
+    height: 350px;
   }
 
   .first-paragraph {
